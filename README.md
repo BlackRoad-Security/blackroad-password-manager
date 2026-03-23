@@ -1,5 +1,13 @@
 # blackroad-password-manager
 
+> CLI password manager with encryption
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Security](https://github.com/BlackRoad-Security)
+
+---
+
+# blackroad-password-manager
+
 > CLI password manager with encryption — BlackRoad Security
 
 [![CI](https://github.com/BlackRoad-Security/blackroad-password-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/BlackRoad-Security/blackroad-password-manager/actions/workflows/ci.yml)
